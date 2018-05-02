@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".view.navigationdrawer.activity.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="hkbskdbhksajkgdsuhdghlkhigsiadogkj dsugukjbVgasuoghoadsiulkjd ujdsgjkjk
+SBHDIJKJKHIjgdshoiaughilK
+SggdjkgFNDALKJGOIHFDSHILKG
+ASJGDJKADSJGJKLADSLIHGK
+SGHDUGHfhoiadudiof
+ausidgusdjjklbgfNKLA
+fdfsnlknkmsfnkl
+ashjdjgvndasnaklgadskhdsgih
+jaskdjghioasiogtfaosiugfijoasd
+adfghasfgmnkjfskhajdgnlksafnmg
+skndfaglkanklgnklsfnknkfsanklnklsaglksdakjlgfsad
+asdlkjgkljsadjklgjklsadg
+sdakdjlglkasdgkjlsad
+kajsdgkjlsaddkjlgs
+asdkdlgkjlsdakjlgkjasdg
+aslkjdjgjklsdaka;jgjksad
+askjlddgkljsadkjlgkjlsad
+askjglkjsdagjklasd
+klashdldgjksdakljgkjasd
+askdldgjasdlkgjkjlasdg
+klasddfjglsadkgjsadlkgjklads;gdjksda
+DSJBgksjasjdlkg
+asdjgklsadlkgjasd
+asdjndjgnklasdkglnsadklngkhlsdakljgjklasdfkjsdfd
+nklasdfknlasdknlfjklasdkjlf
+laksndfnklsdaklnfklnasd
+dsklnfkjsdkfjksadkjf
+asdlknmdfklnasdkjfjksadjkfkjasd;fkjasds
+lksnddfklsdkjfkjsdkjfkjasdjkf
+asknldfklasdkjfkjsadjkf
+asdklknldfkladskljfkldsajf
+asdlknfkjladskjfkjasd;lfkjlsadkjlfkjl" />
+
+</LinearLayout>
